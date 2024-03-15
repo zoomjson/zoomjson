@@ -5,7 +5,7 @@
         {
             "name": "Published-Zoom-IPv4-Ranges",
             "id": "e7f18b60-f22d-4f42-8dc2-050491234567",
-            "description": "Version 1.0 dated 15th March 2024",
+            "description": "Updated 12:26 on 15/03/2024",
             "ranges": [				
 				"3.7.35.0/25",
 				"3.21.137.128/25",
