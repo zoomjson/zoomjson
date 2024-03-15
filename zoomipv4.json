@@ -3,7 +3,7 @@
     "description": "Zoom Data Centres IPv4",
     "objects": [
         {
-            "name": "Zoom Data Centres IPv4",
+            "name": "Zoom Data Centres IPv4 Ranges",
             "id": "e7f18b60-f22d-4f42-8dc2-050490000000",
             "description": "Version 2.0 dated 15th March 2024",
             "ranges": [				
